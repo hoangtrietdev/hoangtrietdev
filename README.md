@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Triet Ngo Phu Hoang  
 
-🚀 **Full Stack Engineer | MSc Computer Science Student at University of Pécs | AWS Certified**  
+🚀 **Full Stack Engineer | MSc Computer Science Student @ University of Pécs | AWS Certified**  
 
 I’m a passionate software engineer with 4+ years of experience building scalable products across **startups, SaaS, and enterprise projects**.  
 Currently pursuing my Master’s in Hungary 🇭🇺, I’m eager to contribute to international product teams and explore innovative solutions in **web, cloud, and AI-driven applications**.  
@@ -16,62 +16,52 @@ Currently pursuing my Master’s in Hungary 🇭🇺, I’m eager to contribute 
 
 ---
 
-## 💼 Work Experience Highlights  
+## 📊 GitHub Stats  
 
-- **Technical Architect – ONE Tech Stop**  
-  🛠️ Designed and maintained company’s Design System architecture  
-  ⚡ Migrated testing to Playwright & Vitest → **3x faster pipelines**  
-  🔒 Eliminated 100% of critical security issues with Distroless & Dependabot  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangtrietdev&show_icons=true&theme=radical" alt="Triet's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtrietdev&layout=compact&theme=radical" alt="Top Langs" height="165" />
+</p>
 
-- **Software Engineer – mesoneer**  
-  🐳 Led Docker adoption → **40% faster deployments**  
-  ⚡ Migrated Blaze → React, improving load time by **30%**  
-  🔄 Optimized cron jobs serving **200k users**  
-
-- **Tool & Game Engineer – Riot Games Extension Team**  
-  🎮 Contributed to **Legends of Runeterra** live events (1M+ users)  
-  🛠️ Maintained features across global teams handling **40,000+ files/merge**  
-  🏆 Recognized with *Outstanding Performance Review*  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtrietdev&theme=radical" alt="Triet's GitHub streak" />
+</p>  
 
 ---
 
-## 📚 Projects  
+## 💼 Experience Highlights  
 
-### [🌍 Study Overseas Roadmap](https://studyoverseasmap.com)  
-- Built with **Next.js, TypeScript, Supabase, Groq AI API**  
-- Real-time bilingual chatbot (EN/VN) with **99.9% uptime**  
-- Progress tracking system with **ReactFlow + custom hooks**  
-- Responsive UX, OAuth login, <2s load time  
+- **ONE Tech Stop** – Optimized pipelines with Playwright/Vitest → **3x faster**  
+- **mesoneer** – Migrated Blaze → React → **30% faster load times**  
+- **Riot Games Extension Team** – Maintained *Legends of Runeterra* (1M+ users)  
+- **Atherlabs** – Built AWS Lambda + DynamoDB → **20% better search performance**  
 
-### [📦 Portfolio Website](https://triet-portfolio.vercel.app)  
-- Showcases my projects, CV, and blogs  
-- Built with **Next.js, Tailwind CSS, Vercel hosting**  
+---
+
+## 📚 Featured Projects  
+
+- [🌍 Study Overseas Roadmap](https://studyoverseasmap.com) – Next.js + Supabase + Groq AI API, bilingual chatbot, ReactFlow progress tracker  
+- [📦 Portfolio Website](https://triet-portfolio.vercel.app) – Next.js + Tailwind CSS, hosted on Vercel  
 
 ---
 
 ## 📜 Certifications  
 
-- 🏆 **AWS Solutions Architect – Associate**  
-- 🏆 **AWS Technology Architect**  
-- 🏆 **Azure AI Fundamentals**  
-- 🏆 **Develop Generative AI with Azure OpenAI Service**  
+- 🏆 AWS Solutions Architect – Associate  
+- 🏆 AWS Technology Architect  
+- 🏆 Azure AI Fundamentals  
+- 🏆 Develop Generative AI with Azure OpenAI Service  
 
 ---
 
-## 🌱 Currently  
+## 📫 Connect with Me  
 
-- 🎓 Pursuing MSc in Computer Science Engineering – *University of Pécs*  
-- 🛠️ Exploring **AI Agents, LLM integration, and advanced web systems**  
-- 🤝 Open to **internships & collaborations in EU/remote**  
-
----
-
-## 📫 Let’s Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/triet-ngo-phu-hoang)  
-- 💻 [GitHub](https://github.com/hoangtrietdev)  
-- 🌐 [Portfolio](https://triet-portfolio.vercel.app)  
-- ✉️ hoangtrietdev@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/triet-ngo-phu-hoang"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/hoangtrietdev"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://triet-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel" /></a>
+  <a href="mailto:hoangtrietdev@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>  
 
 ---
 
