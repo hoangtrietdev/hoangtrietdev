@@ -16,19 +16,6 @@ Currently pursuing my Master’s in Hungary 🇭🇺, I’m eager to contribute 
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangtrietdev&show_icons=true&theme=radical" alt="Triet's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtrietdev&layout=compact&theme=radical" alt="Top Langs" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtrietdev&theme=radical" alt="Triet's GitHub streak" />
-</p>  
-
----
-
 ## 💼 Experience Highlights  
 
 - **ONE Tech Stop** – Optimized pipelines with Playwright/Vitest → **3x faster**  
