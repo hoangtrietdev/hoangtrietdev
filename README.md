@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Triet Ngo Phu Hoang  
 
-🚀 **Full Stack Engineer | MSc Computer Science Student @ University of Pécs | AWS Certified**  
+🚀 **Full Stack Engineer | Master Student at Esigelec | AWS Certified**  
 
-I’m a passionate software engineer with 4+ years of experience building scalable products across **startups, SaaS, and enterprise projects**.  
-Currently pursuing my Master’s in Hungary 🇭🇺, I’m eager to contribute to international product teams and explore innovative solutions in **web, cloud, and AI-driven applications**.  
+I’m a passionate software engineer with 5 years of experience building scalable products across **startups, SaaS, and enterprise projects**.  
+Currently pursuing my Master’s in France <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/d673b30d-7bd2-4b2f-93d7-2a0d2e9a29f6" />
+, I’m eager to contribute to international product teams and explore innovative solutions in **web, cloud, and AI-driven applications**.  
 
 ---
 
