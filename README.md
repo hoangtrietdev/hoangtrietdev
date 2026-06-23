@@ -28,7 +28,8 @@ Currently pursuing my Master’s in France <img width="16" height="11" alt="imag
 
 ## 📚 Featured Projects  
 
-- [🌍 Study Overseas Roadmap](https://studyoverseasmap.com) – Next.js + Supabase + Groq AI API, bilingual chatbot, ReactFlow progress tracker  
+- [🌍 Study Overseas Roadmap](https://studyoverseasmap.com) – Next.js + Supabase + Groq AI API, bilingual chatbot, ReactFlow progress tracker
+- [💼 Master Machine Learning without code](https://masterml.vercel.app/) – Next.js + Groq AI API, hosted on Vercel  
 - [📦 Portfolio Website](https://www.hoangtriet.dev/) – Next.js + Tailwind CSS, hosted on Vercel  
 
 ---
